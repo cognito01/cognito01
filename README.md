@@ -2,7 +2,7 @@
 class Cognito {
   name: string = "Cognito";
   role: string = "JS/TS Developer";
-  mission: string = "Building to make things better";
+  mission: string = "Turning caffeine and curiosity into scalable magic.";
 
   constructor() {
     console.log(`👋 Hi, I'm ${this.name}`);
